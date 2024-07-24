@@ -84,7 +84,7 @@
     </section>
     <footer>
         <div class="container">
-            <p>&copy; 2024 Healthcare Dataset Project. All rights reserved.</p>
+            <p>&copy; Mahmoud Aboukelila</p>
         </div>
     </footer>
 </body>
